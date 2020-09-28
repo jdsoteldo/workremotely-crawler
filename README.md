@@ -7,3 +7,7 @@ In case of wanting to use, clone the repo and run
 ```
 python3 crawler.py
 ```
+NOTE: make sure you have requests installed, to install the package:
+```
+pip install requests
+```
